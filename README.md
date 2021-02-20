@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammad Khatem
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
 - 📫 Reach me @ m.filkawi@gmail.com
 
 <!---
