@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Mohammad Khatem
-- 👀 I’m interested in web development
-- 📫 Reach me @ m.filkawi@gmail.com
+web developer 💻
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=m2k95&show_icons=false&hide_border=true&count_private=true&theme=algolia&hide_title=false&include_all_commits=true" alt="m2k95" /></p> -->
 
