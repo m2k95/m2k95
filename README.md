@@ -1,4 +1,4 @@
-web developer 💻
+<p align="center">web developer 💻</p>
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=m2kio&show_icons=false&hide_border=true&count_private=true&theme=algolia&hide_title=false&include_all_commits=true" alt="m2kio" /></p> -->
 
