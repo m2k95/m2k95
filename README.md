@@ -7,6 +7,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2kio&layout=compact&theme=github_dark&hide_border=true" alt="m2kio" /></p>
 
+<p align="center"><img src="https://gpvc.arturio.dev/m2kio" alt="profile views" /></p>
 
 <!---
 m2kio/m2kio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
